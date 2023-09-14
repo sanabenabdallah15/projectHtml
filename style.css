@@ -1,0 +1,168 @@
+/*#body{
+    background-color: #FAF1E4;
+}*/
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: rgb(130,160,216);
+    background: linear-gradient(90deg, rgba(130,160,216,1) 0%, rgba(237,183,237,1) 55%);
+   
+    
+}
+
+ul{
+    list-style-type: none;
+   
+   
+   
+}
+.in{
+    display: inline;
+    font-size: 30px;
+    padding: 8px;
+}
+a:visited{
+    text-decoration: none;
+    color:white;
+}
+a:link{
+    text-decoration: none;
+    color:black;
+}
+hr{
+   
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+  
+    background: linear-gradient(90deg, rgba(130,160,216,1) 0%, rgba(237,183,237,1) 55%);
+    height: 5px;
+}
+   
+h1{
+    color: white;
+    font-size:50px;
+    text-align: left;
+    font-family: "Roboto";
+}
+.sec{
+    display: flex;
+    justify-content: space-around;
+
+   
+}
+
+.img{
+    max-width: 100%;
+    height:auto;
+   display: inline-block;
+    margin-left: 40px;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 40%;
+   
+}
+.par{
+    
+  
+    height:auto;
+    border: 5px solid ;
+    border-color: #EDB7ED;
+    border-bottom: 30%;
+    padding-bottom: 80px;
+    font-size: 50px;
+    margin-top: 10px;
+    display: inline-block;
+
+
+}
+.pa{
+    max-width: 100%;
+    height:auto;
+    border: 5px solid ;
+    border-color: #EDB7ED;
+    font-size: 50px;
+    width:55%;
+    margin-top:10px;
+    display: inline-block;
+    margin-right:10px;
+    
+
+    
+}
+h2{
+    color: #EDB7ED;
+    font-size: 80px;
+    font-family:"Roboto";
+    text-align: center;
+     
+}
+.p{
+    font-size:50px;
+    font-family: "Roboto";
+}
+dt{
+    font-size:50px;
+    font-family: "Roboto";
+    color: rgb(130,160,216);
+}
+dd{
+    font-size: 25px;
+    font-family: "Roboto";
+}
+iframe{
+    
+     max-width: 100%;
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:560 ;
+    height:315;
+    
+
+}
+form{
+text-align: center;
+}
+label{
+    font-size:30px;
+    font-family: "Roboto";
+    
+}
+.border{
+    width: 25%;
+    padding: 12px 12px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing:content-box;
+}
+.button{
+    width: 25%;
+    background: rgb(130,160,216);
+    background: linear-gradient(90deg, rgba(130,160,216,1) 0%, rgba(237,183,237,1) 55%);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.vidpart{
+    width: 100%;
+ 
+    
+}
+   
+.r{
+    color: #EDB7ED;
+    font-size: 80px;
+    font-family:"Roboto";
+    margin-top: 0px;
+    padding-top: 0px;
+    margin:0px;
+}
+    
+  
+body{}
